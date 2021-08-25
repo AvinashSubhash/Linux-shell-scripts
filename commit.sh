@@ -1,3 +1,6 @@
+# Shell script to push the updated code to the github repository
+# This scrippt adds all the files for committing
+
 git add .
 echo "Added all files for commit. ."
 echo ""
